@@ -1,0 +1,8 @@
+sender,receiver,amount,channel
+A1,B1,50000,UPI
+B1,C1,48000,Bank
+C1,D1,47000,Wallet
+A2,B2,2000,UPI
+B2,C2,1500,Bank
+X1,Y1,90000,UPI
+Y1,Z1,88000,Bank
